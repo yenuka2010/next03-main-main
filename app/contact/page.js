@@ -9,9 +9,9 @@ export default function Mission() {
       
 
       <a href="#" className="block">
-  <img
+  <Image
     alt=""
-    src="/123.jpg"
+    src="https://media.istockphoto.com/id/1473666403/photo/deep-forest-waterfall-in-thailand-erawan-waterfall-national-park-kanjanaburi-thailand.webp?b=1&s=612x612&w=0&k=20&c=kGIKijlueMvXRrFuVU9KStA6xhNdLxUH5c8thg76rY8="
     className="h-64 w-full object-cover sm:h-80 lg:h-96"
   />
 

@@ -7,7 +7,7 @@ const products = (
   <a href="/02" className="group relative block bg-black">
   <img
     alt=""
-    src="/asd.jpeg"
+    src="https://loveincorporated.blob.core.windows.net/contentimages/gallery/a9fb36be-f130-4f84-ab3b-363116c9c5df-Zhangjiajie_China.jpg"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -30,7 +30,7 @@ const products = (
 <a href="/01" className="group relative block bg-black">
   <img
     alt=""
-    src="/image4.jpeg"
+    src="https://i.insider.com/5ecfe8683ad86118977c07c3?width=800&format=jpeg&auto=webp"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -53,7 +53,7 @@ const products = (
 <a href="/03" className="group relative block bg-black">
   <img
     alt=""
-    src="/o.jpg"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1sL4ZepF8OWlA7QgJTYfMbbRMpwSSz0nMA&s"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -76,7 +76,7 @@ const products = (
 <a href="/04" className="group relative block bg-black">
   <img
     alt=""
-    src="/t.jpeg"
+    src="https://t3.ftcdn.net/jpg/06/58/72/02/360_F_658720244_9FwNEUAMeFaB9lNBO5HfBBhQjXxwvKxL.jpg"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -99,7 +99,7 @@ const products = (
 <a href="/05" className="group relative block bg-black">
   <img
     alt=""
-    src="/e.jpg"
+    src="https://live.staticflickr.com/7479/16031001051_2e39575765_b.jpg"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -122,7 +122,7 @@ const products = (
 <a href="/06" className="group relative block bg-black">
   <img
     alt=""
-    src="/f.jpg"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILc9WVpa8MWQiTglG7Z26xjRqgWdRrJmN7g&s"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -145,7 +145,7 @@ const products = (
 <a href="/07" className="group relative block bg-black">
   <img
     alt=""
-    src="/i.jpg"
+    src="https://images.fineartamerica.com/images-medium-large-5/rusty-old-car-in-the-forest-peggy-collins.jpg"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -167,7 +167,7 @@ const products = (
 <a href="/08" className="group relative block bg-black">
   <img
     alt=""
-    src="/image6.jpg"
+    src="https://lk.lakpura.com/cdn/shop/files/LK94008899-10-E.jpg?v=1683007317&width=3840"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 

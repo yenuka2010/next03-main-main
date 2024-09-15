@@ -10,7 +10,7 @@ export default function Footer() {
         className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse"
       >
         <img
-          src="/favicon.ico"
+          src="https://img.freepik.com/free-vector/isolated-tree-white-background_1308-26130.jpg"
           className="h-8"
           alt=" Logo"
         />

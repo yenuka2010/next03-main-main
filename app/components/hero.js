@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
         <img
           alt=""
-          src="/xxx.jpg"
+          src="https://previews.123rf.com/images/klagyi/klagyi0805/klagyi080500005/3104259-railway-track-in-the-forest.jpg"
           className="absolute inset-0 h-full w-full object-cover"
         />
       </div>

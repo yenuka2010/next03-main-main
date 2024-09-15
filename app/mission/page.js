@@ -14,7 +14,7 @@ export default function Mission() {
             <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
               <img
                 alt="- Mission -"
-                src="/image6.jpg"
+                src="https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2F0ZXJmYWxsfGVufDB8fDB8fHww"
                 className="absolute inset-0 h-full w-full object-cover"
               />
             </div>
