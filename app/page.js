@@ -5,7 +5,6 @@ import Footer from "./components/footer";
 import Hero from "./components/hero";
 import Search from "./components/Search";
 
-import Hi from './components/h1';
 
 
 
@@ -15,7 +14,7 @@ export default function Home() {
     <div>
       <>
         <Navbar />
-        <Search />
+        
         <Hero />
         <OurProducts />
         <Footer />
