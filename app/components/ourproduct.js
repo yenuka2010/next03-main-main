@@ -53,7 +53,7 @@ const products = (
 <a href="/03" className="group relative block bg-black">
   <img
     alt=""
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1sL4ZepF8OWlA7QgJTYfMbbRMpwSSz0nMA&s"
+    src="https://img.freepik.com/premium-photo/helicopter-jungle_540381-1263.jpg"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
@@ -122,7 +122,7 @@ const products = (
 <a href="/06" className="group relative block bg-black">
   <img
     alt=""
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILc9WVpa8MWQiTglG7Z26xjRqgWdRrJmN7g&s"
+    src="https://images.adsttc.com/media/images/61ca/2e16/b038/0601/6505/32e8/newsletter/casa-bosque-jardin.jpg?1640640053"
     className="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50"
   />
 
